@@ -1,4 +1,6 @@
 # VideoPlayerProject
+## 프로젝트 ppt
+[유튜브 동영상 플레이어 프로젝트 (1).pdf](https://github.com/gyudong0908/VideoPlayerProject/files/13682348/1.pdf)
 ## 소개
 - 유튜브 동영상들을 분류별로 저장하여 볼 수 있는 앱
 - 기능
